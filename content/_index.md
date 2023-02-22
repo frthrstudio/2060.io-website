@@ -19,7 +19,8 @@ url: "/"
 2060 is a decentralized and open network that provides all the decentralized services needed by any Web5 application: identity, storage, signalling and communication channels, like cloud services provided by existing large players.
 
 2060 aims to dramatically encourage adoption of Web5, Self-Sovereign Identity and Verifiable Credentials.
-<button><b>Discover our technology....</b></button>
+
+<button><b>Discover our technology…</b></button>
 
 </div>
 <div class="open-standards">
@@ -34,7 +35,7 @@ DIDComm ARIES SSI
 </div>
 
 <div class="open-standards-card">
-<img src="img/home-open.png" width="100%" height="100%">
+<img src="img/home-open-2.png" width="100%" height="100%">
 </div>
 </div>
 <div class="your-privacy">

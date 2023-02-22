@@ -43,14 +43,14 @@ Wallet backup and recovery: service for creating and restoring backups of User w
 Signaling: services for arbitration and synchronization of P2P video/audio calls
 
 </div>
-<div class="card">
+<div class="operating-agency-card">
 
 ![Agency](/img/operate-agency.png)
 
 </div>
 </div>
 <div class="earn-operating">
-<div class="earn-operating-card">
+<div class="earn-storing-card">
 
 ![Storage](/img/operate-storage.png)
 
@@ -80,7 +80,7 @@ Core Gateway: provides common APIs to submit transactions and subscribe to event
 </div>
 </div>
 <div class="earn-operating">
-<div class="earn-operating-card">
+<div class="earn-identifying-card">
 
 ![Identity](/img/operate-identity.png)
 

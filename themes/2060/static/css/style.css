@@ -74,7 +74,7 @@ nav{
 .card {
     background-color: #0c0c12;
     /* padding: 1rem; */
-    margin: 0 0 0 9.2%;
+    /* margin: 0 0 0 9.2%; */
     /* height: 30rem;
     border: 1px solid #0c0c12;
     border-radius: 0%; */
@@ -171,7 +171,8 @@ nav{
 
 .open-standards-card img {
     object-fit:cover;
-    object-position: right center;
+    width: 100%;
+    object-position: center center;
 }
 
 .open-standards-card button {
@@ -609,6 +610,9 @@ footer{
 @media (min-width: 900px) {
     .earn-operating-card img {
         padding: 0% 20% 0% 20%;
+        object-position: center top;
+        width: 100%;
+        object-fit: cover;
     }
 }
 
@@ -656,16 +660,22 @@ footer{
 .cover-banner-card {
     display: grid;
     width: 100%;
-    background-color: #0c0c12;
-    border: 1px solid #0c0c12;
+    /* background-color: #0c0c12;
+    border: 1px solid #0c0c12; */
     border-radius: 0%;
     height: unset;
 }
 
+/* Fix right marging in footer */
+.row{
+    margin-right: unset !important;
+}
+
+
 @media (min-width: 900px) {
     .cover-banner-card {
         grid-template-columns: repeat(1, 1fr);
-        height: 40rem;
+        height: 20rem;
     }
 }
 

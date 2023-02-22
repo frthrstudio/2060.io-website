@@ -24,7 +24,7 @@ This network will provide all the decentralized services needed by any web5 appl
 
 We believe web5 needs no intermediary, that’s why in our model, anyone can become a producer, run the network and its services and get rewarded for this, and anyone can be a consumer, use the network and its services by paying the corresponding fee to producers. 
 
-<button><b>Discover our technology....</b></button>
+<button><b>Discover our technology…</b></button>
 
 </div>
 <div class="the-team">
